@@ -50,6 +50,6 @@ body {
   background-color: whitesmoke;
 }
 
-.span-two {
+.big-button {
   grid-column: span 2;
 }
